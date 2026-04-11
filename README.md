@@ -78,22 +78,7 @@ ZAARD utiliza IPFS (InterPlanetary File System) gestionado a través de Pinata p
 ### 4.1. Estándar de Metadatos de NFT
 Cada NFT Zaard debe apuntar a una URI (Uniform Resource Identifier) de metadatos almacenada en IPFS. El formato JSON de metadatos debe adherirse al estándar de OpenSea/ERC-721, incluyendo campos de IA:
 
-`json
-{
-  "name": "Zaard Infinito #1",
-  "description": "Un activo digital generado por IA y optimizado por blockchain.",
-  "image": "ipfs://bafybeih...zaard-asset-uri",
-  "attributes": [
-    {
-      "trait_type": "AI Generation Engine",
-      "value": "V1"
-    },
-    {
-      "trait_type": "Optimization Level",
-      "value": "High"
-    }
-  ]
-}
+
 
 ---
 [← Volver al repositorio principal de ZAARD INNOVATION](https://github.com/Figueredo56/ZAARD.token)
