@@ -28,11 +28,12 @@ Basado en los datos de emisión verificados en la red:
 * Divisibilidad ($d$): $18$ decimales (estándar BEP-20/ERC-20).
 
 ### 2.2. Implementación de Gobernanza (ZAIP)
-El token Zaard hereda propiedades de gobernanza para el mecanismo ZAIP (Zaard Advancement Improvement Proposals). El poder de voto ($V_u$) de un usuario $u$ se define como:
 
-$$V_u(t) = \text{balance de tokens}(u, t)$$
+El token Zaard hereda propiedades de gobernanza para el mecanismo **ZAIP** (Zaard Advancement Improvement Proposals). El poder de voto $V_{u}$ de un usuario $u$ en el tiempo $t$ se define formalmente como:
 
-Donde $t$ es la marca de tiempo del bloque de votación. La implementación técnica de las votaciones debe ser compatible con herramientas de gobernanza descentralizada.
+$$V_{u}(t) = \text{Balance de Tokens}(u, t)$$
+
+Donde $t$ representa la marca de tiempo (timestamp) del bloque de votación. La implementación técnica de las votaciones debe ser compatible con herramientas de gobernanza descentralizada.
 
 ## 3. ARQUITECTURA DE CONTRATOS INTELIGENTES
 
