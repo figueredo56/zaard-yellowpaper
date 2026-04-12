@@ -15,6 +15,9 @@ Dirección del Contrato (Referencia): 0xd9e6...36d2bb
 
 Este documento constituye la especificación técnica formal de bajo nivel para el protocolo ZAARD. Mientras que el Whitepaper v1.0 establece la visión conceptual de cerrar la brecha entre la Inteligencia Artificial (IA) y la Blockchain, este Yellow Paper define los parámetros matemáticos, la arquitectura de los contratos inteligentes y los estándares de datos que rigen el ecosistema.
 
+![ZAARD INNOVATION](https://gateway.pinata.cloud/ipfs/bafybeihwgutss2majkvanadmm4rwbp6kpcgywebs3cgpgwdcs45ut3srd4)
+
+
 ## 2. ESPECIFICACIÓN DEL TOKEN ZAARD
 
 El núcleo operativo de ZAARD es el Zaard Token, un activo de utilidad implementado bajo el estándar BEP-20 en la BNB Smart Chain.
