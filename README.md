@@ -1,4 +1,4 @@
-# zaard-yellowpaper 
+# ZAARD-yellowpaper 
 <p align="center">
   <img src="https://gateway.pinata.cloud/ipfs/bafybeihyyfnc5xbixbpocvfwl4xoy4dylfy6hvnkr6ar7cc5mlsk5twzb4" alt="ZAARD INNOVATION Logo" width="150">
 </p>
