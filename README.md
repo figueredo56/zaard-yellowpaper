@@ -1,7 +1,8 @@
 # ZAARD-yellowpaper 
 <p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeihyyfnc5xbixbpocvfwl4xoy4dylfy6hvnkr6ar7cc5mlsk5twzb4" alt="ZAARD INNOVATION Logo" width="150">
-</p>
+
+![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo.png)
+
 
 # ZAARD: ESPECIFICACIÓN TÉCNICA FORMAL
 ### Un protocolo de gestión de activos digitales optimizado con IA en la BNB Smart Chain
