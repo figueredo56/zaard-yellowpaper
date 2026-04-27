@@ -1,9 +1,6 @@
 ## 👤 Founder & Lead Developer
 Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zaard-innovation-4a186b406)
-# ZAARD-yellowpaper 
-<p align="center">
 
 ![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo.png)
 
