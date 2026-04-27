@@ -1,9 +1,7 @@
 ## 👤 Founder & Lead Developer
 Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
 
-
-![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo.png)
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zaard-innovation-4a186b406)
 
 # ZAARD: ESPECIFICACIÓN TÉCNICA FORMAL
 ### Un protocolo de gestión de activos digitales optimizado con IA en la BNB Smart Chain
