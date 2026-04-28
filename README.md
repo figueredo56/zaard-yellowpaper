@@ -85,3 +85,7 @@ Cada NFT Zaard debe apuntar a una URI (Uniform Resource Identifier) de metadatos
 
 ---
 [← Volver al repositorio principal de ZAARD INNOVATION](https://github.com/Figueredo56/ZAARD.token)
+
+### Contacto Oficial
+Para verificaciones de seguridad y soporte técnico, puede contactarnos en:
+[figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
